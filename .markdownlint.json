@@ -1,0 +1,10 @@
+{
+  "default": true,
+  "MD003": { "style": "atx" },
+  "MD004": { "style": "asterisk" },
+  "MD007": { "indent": 2 },
+  "MD010": true,
+  "MD029": true,
+  "MD013": false,
+  "markdownlint.autoFix": true
+}
